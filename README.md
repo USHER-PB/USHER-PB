@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Tchankoumi Usher a Junior software developer 
 
 
-![usher-pb GitHub Stats](https://github-readme-stats.vercel.app/api?username=usher-pb&show_icons=true&theme=dark)
+![USHER-PB GitHub Stats](https://github-readme-stats.vercel.app/api?username=USHER-PB&show_icons=true&theme=dark)
 **USHER-PB/USHER-PB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

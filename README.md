@@ -23,8 +23,6 @@ I enjoy building **secure, reliable, and automated** backend systems and explori
   * JavaScript (frontend integration)
   * C (low-level systems)
   * DevOps & Infrastructure automation
-  * WebSocket, gRPC & API design
-  * Reverse proxy, DNS & domain configuration
   * OIDC, authentication flows, role-based access
 
 🖥️ **Operating Systems**:
@@ -44,8 +42,6 @@ I enjoy building **secure, reliable, and automated** backend systems and explori
   * OpenStack (cloud infrastructure & HA)
   * Ansible (automated deployments)
   * Docker & Multipass (containerization & VM)
-  * TLS/SSL (ACME, ZeroSSL, cert management)
-  * Reverse proxy & relay networking architecture
     
 🌐 **Interests**:
   * Cybersecurity &amp; Zero Trust Networking
@@ -54,7 +50,6 @@ I enjoy building **secure, reliable, and automated** backend systems and explori
   * LLM &amp; Modern Backend Architectures
   * Cloud Computing &amp; Infrastructure (e.g., OpenStack)
   * Containerization &amp; DevOps Tooling (e.g., Docker, Ansible)
-  * Compression Algorithms &amp; Systems Design</li>
   * Secure Networking &amp; Authentication
   * Infrastructure Automation &amp; SRE Practices
   * Frontend &amp; Web Integration (HTML, CSS, JavaScript)

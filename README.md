@@ -1,4 +1,4 @@
-## Hi there 👋 I am Tchankoumi Usher a Junior software developer 
+## Hi there 👋 I am Tchankoumi Usher a software developer 
 
 ## Hello there 👋
 <div id="header" align="center">

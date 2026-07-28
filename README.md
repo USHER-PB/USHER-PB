@@ -1,110 +1,105 @@
-## 👋 Hi there — I’m Tchankoumi Usher, a Software Developer & SRE Enthusiast  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tchankoumi%20Usher&fontColor=ffffff&fontSize=48&desc=DevOps%20%C2%B7%20Platform%20Engineer%20%C2%B7%20Site%20Reliability%20Engineer&descSize=18&descAlignY=62&animation=fadeIn"/>
+</p>
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N1ajA0cXI4bmJkZHc5aW5iYWQyMmJncHV4OHR4dTZldzNoajdnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="120"/>
-</div>
-
-## 🚀 About Me
-I’m a **software developer** with a passion for **Rust**, security, infrastructure, and system-level development.  
-I enjoy building **secure, reliable, and automated** backend systems and exploring real-world deployments with a DevOps/SRE mindset.
-
----
-
-![USHER-PB GitHub Stats](https://github-readme-stats.vercel.app/api?username=usher-pb&show_icons=true&theme=dark)
-
-[![USHER-PB Banner](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+USHER-PB!;🚀+System+Developer+%26+SRE+Enthusiast;🔐+Passionate+about+Rust+%26+Security;🧠+Loves+Building+Real+Systems&center=true&width=1000&size=30&duration=3000&pause=1000)](https://git.io/typing-svg)
-
----
-
-### 🔧 Tech Stack
-
-🧰 **Core Development Skills**:
-  * Rust (network programming, compression, CLI, WASM)
-  * JavaScript (frontend integration)
-  * C (low-level systems)
-  * DevOps & Infrastructure automation
-  * OIDC, authentication flows, role-based access
-
-🖥️ **Operating Systems**:
-  * Linux (Ubuntu)
-  * Windows
-
-🛠️ **Tools & Platforms**:
-  * Git & GitHub
-  * Docker
-  * Multipass
-  * VS Code
-  * Eclipse
-
-🔐 **Security & Infrastructure**:
-  * Keycloak (IAM & OIDC)
-  * NetBird (secure overlay networking)
-  * OpenStack (cloud infrastructure & HA)
-  * Ansible (automated deployments)
-  * Docker & Multipass (containerization & VM)
-    
-🌐 **Interests**:
-  * Cybersecurity &amp; Zero Trust Networking
-  * System Development &amp; Automation
-  * Rust Programming &amp; Systems Engineering
-  * LLM &amp; Modern Backend Architectures
-  * Cloud Computing &amp; Infrastructure (e.g., OpenStack)
-  * Containerization &amp; DevOps Tooling (e.g., Docker, Ansible)
-  * Secure Networking &amp; Authentication
-  * Infrastructure Automation &amp; SRE Practices
-  * Frontend &amp; Web Integration (HTML, CSS, JavaScript)
-  * Distributed Systems Architecture
-
----
-
-### 🏆 GitHub Highlights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usher-pb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com/?user=usher-pb&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="GitHub Streak"  />
-</div>
-
----
-
-### 🧰 Toolbelt
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo" />
-  <img width="4" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="4" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo" />
-  <img width="4" />
-</div>
-
----
-
-### 🕹️ Fun Facts
-- 🎮 I love playing games after coding
-- 🎤 I enjoy singing (especially when code finally works 😄)
-- 🧭 I love building secure systems that “just work”
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
-  <a href="https://discordapp.com/users/1282740878343016633" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=usher-pb&color=7356DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Kubernetes+on+Talos+%2B+Hetzner+%26+AWS;GitOps+with+ArgoCD+%26+Helm;Terraform+all+the+things;Observability%2C+Backups+%26+Zero-Trust+Networking&center=true&width=820&size=22&duration=3200&pause=900&color=36BCF7"/>
   </a>
-  
-  <a href="mailto:ushertchankoumi9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=usher-pb&color=D14840&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=usher-pb&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usher-pb&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+## 🧭 About Me
+
+DevOps / Platform / Site Reliability Engineer building and running **production Kubernetes platforms** end to end — from bare Talos Linux nodes on Hetzner Cloud and AWS, through GitOps delivery, to the observability, backups, and security guardrails that keep them reliable.
+
+I work daily across the whole stack: **provisioning clusters with Terraform**, **shipping apps via ArgoCD + Helm**, **wiring up SSO/OIDC with Keycloak**, **hardening the supply chain with automated security scans**, and **making failures observable and recoverable** before they become incidents.
+
+- 🏗️  I run a self-hosted Talos Kubernetes platform (`talos-k8s`) on Hetzner, plus a GitOps app monorepo (`om`) delivering Mattermost, Vaultwarden, XWiki, Keycloak & more
+- 🔐  Big on **zero-trust**: mesh-only access (NetBird), SSO everywhere, least-privilege IAM, secrets in AWS Secrets Manager via External Secrets
+- 📈  I care about the boring-but-critical: **verified backups**, **restore tests**, **alerting that routes to the right channel**, **pipeline metrics**
+- 🦀  Systems-minded — Rust, Go, and low-level networking are where I like to go deep
+
+---
+
+## 🛠️ What I Work With Daily
+
+**Orchestration & IaC**
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,helm,ansible,bash&theme=dark"/>
+</p>
+
+**Cloud & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,cloudflare,githubactions&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Talos_Linux-FF7300?style=for-the-badge&logo=talos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white"/>
+</p>
+
+**GitOps · Observability · Data**
+<p>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudNativePG-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**Identity · Security · Networking**
+<p>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBird-FF6B00?style=for-the-badge&logo=wireguard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/External_Secrets-5B4FCF?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OIDC%2FSSO-2088FF?style=for-the-badge&logo=auth0&logoColor=white"/>
+</p>
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,go,python,c,typescript,kotlin&theme=dark"/>
+</p>
+
+---
+
+## 🚀 Selected Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **talos-k8s** | Self-hosted Talos Linux Kubernetes platform on Hetzner Cloud — the cluster foundation | Terraform · Talos · Cilium · ingress-nginx · cert-manager |
+| **om** | GitOps app monorepo — delivers Mattermost, Vaultwarden, XWiki, Keycloak, iviss, azamra via ArgoCD | Helm · ArgoCD · CNPG · External Secrets |
+| **global-gateway** | Self-hosted NetBird mesh (zero-trust VPN) control plane on AWS | Terraform · Ansible · coturn · ALB/ASG/RDS |
+| **keycloak-spi-registry** | Custom Keycloak SPIs (auth flows, device registration) | Kotlin · Keycloak |
+| **observability & backups** | Prometheus/Grafana/Loki stack, CNPG backups with daily catalog + monthly restore-test, severity-routed alerting | PromQL · Alertmanager · barman/S3 |
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USHER-PB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USHER-PB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USHER-PB&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USHER-PB&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="mailto:tchankoumiblondi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/USHER-PB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>"A task is not done until it's proven done."</i></p>

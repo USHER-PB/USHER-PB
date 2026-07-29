@@ -17,8 +17,8 @@ DevOps / Platform / Site Reliability Engineer building and running **production 
 
 I work daily across the whole stack: **provisioning clusters with Terraform**, **shipping apps via ArgoCD + Helm**, **wiring up SSO/OIDC with Keycloak**, **hardening the supply chain with automated security scans**, and **making failures observable and recoverable** before they become incidents.
 
-- 🏗️  I run a self-hosted Talos Kubernetes platform (`talos-k8s`) on Hetzner, plus a GitOps app monorepo (`om`) delivering Mattermost, Vaultwarden, XWiki, Keycloak & more
-- 🔐  Big on **zero-trust**: mesh-only access (NetBird), SSO everywhere, least-privilege IAM, secrets in AWS Secrets Manager via External Secrets
+- 🏗️  I design and run self-hosted Kubernetes platforms (Talos on Hetzner & AWS) and deliver apps to them with GitOps
+- 🔐  Big on **zero-trust**: mesh-only access, SSO everywhere, least-privilege IAM, secrets managed centrally (never in git)
 - 📈  I care about the boring-but-critical: **verified backups**, **restore tests**, **alerting that routes to the right channel**, **pipeline metrics**
 - 🦀  Systems-minded — Rust, Go, and low-level networking are where I like to go deep
 
@@ -66,15 +66,17 @@ I work daily across the whole stack: **provisioning clusters with Terraform**, *
 
 ---
 
-## 🚀 Selected Work
+## 🚀 What I Can Offer
 
-| Project | What it is | Stack |
-|---|---|---|
-| **talos-k8s** | Self-hosted Talos Linux Kubernetes platform on Hetzner Cloud — the cluster foundation | Terraform · Talos · Cilium · ingress-nginx · cert-manager |
-| **om** | GitOps app monorepo — delivers Mattermost, Vaultwarden, XWiki, Keycloak, iviss, azamra via ArgoCD | Helm · ArgoCD · CNPG · External Secrets |
-| **global-gateway** | Self-hosted NetBird mesh (zero-trust VPN) control plane on AWS | Terraform · Ansible · coturn · ALB/ASG/RDS |
-| **keycloak-spi-registry** | Custom Keycloak SPIs (auth flows, device registration) | Kotlin · Keycloak |
-| **observability & backups** | Prometheus/Grafana/Loki stack, CNPG backups with daily catalog + monthly restore-test, severity-routed alerting | PromQL · Alertmanager · barman/S3 |
+| Area | What I deliver |
+|---|---|
+| **Kubernetes platforms** | Provision and operate production clusters (Talos, EKS) on Hetzner & AWS — networking, ingress, TLS, storage, node lifecycle |
+| **Infrastructure as Code** | Everything in Terraform — reproducible, reviewed, no click-ops; modular and least-privilege by default |
+| **GitOps delivery** | App delivery via ArgoCD + Helm — merge-to-deploy pipelines with automated lint, template, and security gates |
+| **Identity & zero-trust** | Keycloak SSO/OIDC (incl. custom SPIs), mesh-only network access, and centrally-managed secrets kept out of git |
+| **Observability** | Prometheus / Grafana / Loki stacks, meaningful dashboards, and severity-routed alerting that reaches the right on-call channel |
+| **Data reliability** | PostgreSQL (CloudNativePG) with automated backups, catalog checks, and scheduled restore tests — not just backups, *proven* backups |
+| **Supply-chain security** | Automated scanning (Trivy / tfsec / Checkov / secret detection) wired into CI as release gates |
 
 ---
 
@@ -98,7 +100,7 @@ I work daily across the whole stack: **provisioning clusters with Terraform**, *
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:tchankoumiblondi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ushertchankoumi9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/USHER-PB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 

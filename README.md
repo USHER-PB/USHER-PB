@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tchankoumi%20Usher&fontColor=ffffff&fontSize=48&desc=DevOps%20%C2%B7%20Platform%20Engineer%20%C2%B7%20Site%20Reliability%20Engineer&descSize=18&descAlignY=62&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:434343,100:000000&height=230&section=header&text=Tchankoumi%20Usher&fontColor=36BCF7&fontSize=46&desc=DevOps%20%C2%B7%20Platform%20Engineer%20%C2%B7%20Site%20Reliability%20Engineer&descSize=18&descAlignY=72"/>
 </p>
 
 <p align="center">
@@ -13,14 +13,20 @@
 
 ## 🧭 About Me
 
-DevOps / Platform / Site Reliability Engineer building and running **production Kubernetes platforms** end to end — from bare Talos Linux nodes on Hetzner Cloud and AWS, through GitOps delivery, to the observability, backups, and security guardrails that keep them reliable.
+<p align="center">
+  <b>DevOps · Platform · Site Reliability Engineer</b><br/>
+  <i>I build and run production Kubernetes platforms end to end — and keep them reliable, observable, and secure.</i>
+</p>
 
-I work daily across the whole stack: **provisioning clusters with Terraform**, **shipping apps via ArgoCD + Helm**, **wiring up SSO/OIDC with Keycloak**, **hardening the supply chain with automated security scans**, and **making failures observable and recoverable** before they become incidents.
-
-- 🏗️  I design and run self-hosted Kubernetes platforms (Talos on Hetzner & AWS) and deliver apps to them with GitOps
-- 🔐  Big on **zero-trust**: mesh-only access, SSO everywhere, least-privilege IAM, secrets managed centrally (never in git)
-- 📈  I care about the boring-but-critical: **verified backups**, **restore tests**, **alerting that routes to the right channel**, **pipeline metrics**
-- 🦀  Systems-minded — Rust, Go, and low-level networking are where I like to go deep
+```yaml
+role:        DevOps / Platform / SRE
+focus:       production Kubernetes — from bare nodes to GitOps delivery
+approach:    everything-as-code, reviewed, reproducible; no click-ops
+reliability: verified backups · restore tests · meaningful alerting
+security:    zero-trust access · SSO/OIDC · least-privilege · secrets never in git
+depth:       systems-minded — Rust, Go & low-level networking
+motto:       "A task is not done until it's proven done."
+```
 
 ---
 
@@ -103,5 +109,3 @@ I work daily across the whole stack: **provisioning clusters with Terraform**, *
   <a href="mailto:ushertchankoumi9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/USHER-PB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-<p align="center"><i>"A task is not done until it's proven done."</i></p>

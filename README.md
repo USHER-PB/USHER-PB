@@ -17,7 +17,6 @@ DevOps / Platform / Site Reliability Engineer building and running **production 
 
 I work daily across the whole stack: **provisioning clusters with Terraform**, **shipping apps via ArgoCD + Helm**, **wiring up SSO/OIDC with Keycloak**, **hardening the supply chain with automated security scans**, and **making failures observable and recoverable** before they become incidents.
 
-- 🏗️  I run a self-hosted Talos Kubernetes platform (`talos-k8s`) on Hetzner, plus a GitOps app monorepo (`om`) delivering Mattermost, Vaultwarden, XWiki, Keycloak & more
 - 🔐  Big on **zero-trust**: mesh-only access (NetBird), SSO everywhere, least-privilege IAM, secrets in AWS Secrets Manager via External Secrets
 - 📈  I care about the boring-but-critical: **verified backups**, **restore tests**, **alerting that routes to the right channel**, **pipeline metrics**
 - 🦀  Systems-minded — Rust, Go, and low-level networking are where I like to go deep
